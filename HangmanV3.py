@@ -1,12 +1,3 @@
-#description     : A simple game of hangman. 
-#author          : Azmira Tania
-#date            : 10 November 2012
-#version         : 3.6
-#python_version  : 3.2.3
-#code purpose    : Contains main Hangman game codes.
-#==============================================================================
-
-
 import time
 
 # Import the HangmanFunctions.py module, which contains the funtions, from the same folder
@@ -119,10 +110,3 @@ while 1:
         print()
         print()
         print() 
-
-        
-        
-
-
-
-
