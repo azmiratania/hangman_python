@@ -1,11 +1,3 @@
-#description     : A simple game of hangman. 
-#author          : Azmira Tania
-#date            : 10 November 2012
-#version         : 3.6
-#python_version  : 3.2.3
-#code purpose    : Contains all functions required for Hangman game.
-#==============================================================================
-
 from random import randint
 
 # This function takes an integer input and displays corresponding ASCII art.
@@ -242,25 +234,3 @@ def alert_message(n):
 """]
 
     print (messageList[n])
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
